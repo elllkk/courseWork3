@@ -1,0 +1,22 @@
+.headOfTable{
+/* Включаем режим Flexbox. */
+display: flex; 
+/* Распределяем элементы внутри шапки*/
+justify-content: space-between;
+/* Выравниваем элементы вертикально по центру. */
+align-items: center;
+text-align: center;
+color: red;
+}
+
+h1 {
+/* Включаем режим Flexbox. */
+display: flex; 
+/* Распределяем элементы внутри шапки*/
+justify-content: space-between;
+/* Выравниваем элементы вертикально по центру. */
+align-items: center;
+text-align: center;
+color: yellow;
+
+}
