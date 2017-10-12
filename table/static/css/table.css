@@ -1,22 +1,13 @@
-.headOfTable{
-/* Включаем режим Flexbox. */
-display: flex; 
-/* Распределяем элементы внутри шапки*/
-justify-content: space-between;
-/* Выравниваем элементы вертикально по центру. */
-align-items: center;
-text-align: center;
-color: red;
-}
-
 h1 {
-/* Включаем режим Flexbox. */
-display: flex; 
-/* Распределяем элементы внутри шапки*/
-justify-content: space-between;
-/* Выравниваем элементы вертикально по центру. */
-align-items: center;
 text-align: center;
-color: yellow;
-
+font-family: 'Lobster';
+font-size: 45px;
+}
+table{
+font-size: 35px;
+margin-bottom: 35px; !important;
+}
+#myChart{
+width: 1200px !important;
+height: 1000px !important;
 }
